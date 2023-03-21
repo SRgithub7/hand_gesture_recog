@@ -1,4 +1,4 @@
-
+VIRTUAL MOUSE
 
 A virtual mouse is software that allows users to give mouse inputs to a
 system without using an actual mouse. To the extreme it can also be called
